@@ -1,0 +1,51 @@
+user_id,place_name,rating
+1,Burj Khalifa,3
+1,Louvre Museum,3
+1,Statue of Liberty,5
+1,India Gate,4
+1,Eiffel Tower,3
+2,India Gate,5
+2,Colosseum,4
+2,Louvre Museum,5
+2,Big Ben,4
+2,Tokyo Tower,3
+3,Big Ben,5
+3,Colosseum,4
+3,Burj Khalifa,5
+3,Eiffel Tower,5
+3,Louvre Museum,4
+4,Sydney Opera House,4
+4,Eiffel Tower,5
+4,Big Ben,3
+4,Taj Mahal,3
+4,Burj Khalifa,5
+5,India Gate,5
+5,Eiffel Tower,5
+5,Burj Khalifa,3
+5,Taj Mahal,4
+5,Big Ben,5
+6,Big Ben,3
+6,Colosseum,4
+6,Burj Khalifa,4
+6,Taj Mahal,4
+6,Statue of Liberty,3
+7,Tokyo Tower,5
+7,Statue of Liberty,3
+7,Burj Khalifa,5
+7,Big Ben,3
+7,Colosseum,5
+8,Sydney Opera House,3
+8,Big Ben,5
+8,Statue of Liberty,5
+8,Louvre Museum,5
+8,India Gate,4
+9,Burj Khalifa,3
+9,India Gate,4
+9,Tokyo Tower,5
+9,Louvre Museum,3
+9,Colosseum,4
+10,Tokyo Tower,4
+10,Colosseum,5
+10,India Gate,3
+10,Burj Khalifa,5
+10,Taj Mahal,4

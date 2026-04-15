@@ -1,0 +1,16 @@
+country,city,stay_cost,food_cost,local_travel_cost
+Italy,Rome,2500,1200,800
+France,Paris,3000,1500,900
+Spain,Barcelona,2400,1100,700
+Germany,Berlin,2600,1300,800
+India,Delhi,1200,600,300
+Japan,Tokyo,3200,1600,900
+Thailand,Bangkok,1800,800,400
+USA,New York,3500,1800,1000
+Canada,Toronto,2800,1400,900
+Australia,Sydney,3300,1700,1000
+UAE,Dubai,3100,1600,900
+Turkey,Istanbul,1900,900,500
+South Africa,Cape Town,2000,1000,600
+Egypt,Cairo,1100,500,300
+Morocco,Marrakesh,1500,700,400
